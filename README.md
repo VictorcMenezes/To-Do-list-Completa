@@ -35,4 +35,4 @@ Este projeto é uma aplicação de lista de tarefas onde você pode adicionar, m
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/nome-do-repositorio.git
+   git clone https://github.com/VictorcMenezes/To-Do-list-Completa.git
